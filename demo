@@ -1,4 +1,0 @@
-bind q "use tf_weapon_grenadelauncher"
-bind e "use tf_weapon_pipebomblauncher"
-cl_interp_ratio 1
-cl_interp 0.0152
